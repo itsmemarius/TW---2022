@@ -1,0 +1,2 @@
+X:\Desktop\Uni\Anul 2\Sem 2\TW\Lab 2.4\eUseControl\eUseControl.BussinessLogic\obj\Debug\eUseControl.BusinessLogic.csprojAssemblyReference.cache
+X:\Desktop\Uni\Anul 2\Sem 2\TW\Lab 2.4\eUseControl\eUseControl.BussinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
