@@ -2,7 +2,7 @@
 
 This project is a ASP.NET Web Application for a engineering club.
 
-For the live version of the website check [link should be here] (https://media.giphy.com/media/VwoJkTfZAUBSU/giphy.gif)
+For the live version of the website check [link] (https://media.giphy.com/media/VwoJkTfZAUBSU/giphy.gif)
 
 ## Installation
 
